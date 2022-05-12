@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 touch up_to_date
+=======
+git add .
+git commit git push
+/n git pull
+>>>>>>> 306e42538a0f61fb64c8b314526ae506bbcb2dc4
